@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coupang-eats.tire210.com/sitemap.xml
